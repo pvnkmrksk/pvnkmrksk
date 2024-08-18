@@ -1,61 +1,90 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Pavan Kumar Kaushik",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pkaushik@ab.mpg.de",
+    "phone": "",
+    "url": "https://pvnkmrksk.github.io",
+    "summary": "Tinkerer from India who makes insects play video games",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Max Planck Institute of Animal Behavior",
+      "postalCode": "78467",
+      "city": "Konstanz",
+      "countryCode": "DE",
+      "region": "BW"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "pvnkmrksk",
+        "url": "https://twitter.com/pvnkmrksk"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Max Planck Institute of Animal Behavior",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.ab.mpg.de/person/116189/2736",
+      "startDate": "2022-06-01",
+      "endDate": "",
+      "summary": "Building next generation Virtual Reality Matrix for studying collective behavior. Designed and Built a custom 6 axis micro Force Torque sensors for flying insects.",
+      "highlights": ["Virtual Reality", "Naturalistic Stimuli"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Dozee",
+      "position": "Tinkerer Maximus",
+      "url": "https://dozee.ai/publication",
+      "startDate": "2021-06-01",
+      "endDate": "2022-05-30",
+      "summary": "Built a contact-less blood pressure monitoring system that contributed to FDA approval for remote contactless vitals monitoring. Developed a multi-channel Ballistocardiography acquisition system for clinical studies.",
+      "highlights": ["Contactless Vitals Monitoring", "Ballistocardiography"]
+    },
+    {
+      "name": "Essensari",
+      "position": "Co-Founder & CTO",
+      "url": "https://pvnkmrksk.wixsite.com/essensari",
+      "startDate": "2020-08-01",
+      "endDate": "2021-05-30",
+      "summary": "Rapidly prototyped a loss of smell testing device for a low-cost, rapid COVID screening.Designed, Developed and Deployed an IoT device and Android app with a provisional patent.",
+      "highlights": ["Loss of Smell Testing", "Low Cost Covid-19 Test"]
     }
   ],
+  
+  // "volunteer": [
+  //   {
+  //     "organization": "People's Climate March",
+  //     "location": "Zurich, Switzerland",
+  //     "position": "Lead Organizer",
+  //     "url": "https://example.com",
+  //     "startDate": "2014-04-01",
+  //     "endDate": "2015-07-01",
+  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+  //   }
+  // ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "National Centre for Biological Sciences",
+      "location": "Bengaluru, India",
+      "url": "https://shodhganga.inflibnet.ac.in:8443/jspui/handle/10603/423079",
+      "area": "Computational Neuroethology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2014-08-01",
+      "endDate": "2020-07-31",
+      "courses": ["Evolutionary Biology", "Neuroscience", "Information Theory" ]
+    },
+    {
+      "institution": "Bangalore University",
+      "location": "Bengaluru, India",
+      "url": "https://bangaloreuniversity.karnataka.gov.in",
+      "area": "Biology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2011-08-01",
+      "endDate": "2014-07-31",
+      "score": "7",
+      "courses": ["Biology", "Chemistry", "Physics", "Mathematics" ]
     }
   ],
   "awards": [
@@ -141,25 +170,38 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Computing"
+
       ]
     }
   ],
   "languages": [
+
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Kannada",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Tamil",
       "fluency": "Fluent",
       "icon": ""
+    }  ,
+      {
+      "language": "Hindi",
+      "fluency": "Fluent",
+      "icon": ""
+    },    {
+      "language": "German",
+      "fluency": "Intermediate",
+      "icon": ""
     }
+
   ],
   "interests": [
     {
